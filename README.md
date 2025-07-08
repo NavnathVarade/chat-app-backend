@@ -538,7 +538,7 @@ Manages user profiles and social features:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/chat-app-backend.git
+git clone https://github.com/NavnathVarade/chat-app-backend.git
 cd chat-app-backend
 ```
 
